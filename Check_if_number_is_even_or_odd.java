@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 class file
 {
     public static void main(String[] args)
@@ -11,7 +11,7 @@ class file
             System.out.println("Even");
         }
         else
-        {
+         {
             System.out.println("Odd");
         }
     }
