@@ -4,10 +4,10 @@ class file
     public static void main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
-        int a;
+        int n;
         double sum=0;
-        a=sc.nextInt();
-        for(float i=1;i<=a;i++)
+        n=sc.nextInt();
+        for (float i=1;i<=n;i++)
         {
             sum+=1/i;
         }
