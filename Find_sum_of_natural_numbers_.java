@@ -1,12 +1,12 @@
 import java.util.*;
-class file 
+class file
 {
     public static void main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
-        int a,sum=0;
-        a=sc.nextInt();
-        for(int i=0;i<=a;i++)
+        int n,sum=0;
+        n=sc.nextInt();
+        for(int i=0;i<=n;i++)
         {
             sum=sum+i;
         }
